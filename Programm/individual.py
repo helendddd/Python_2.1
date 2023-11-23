@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 from math import pi
 
 R = float(input("Enter outer radius... "))

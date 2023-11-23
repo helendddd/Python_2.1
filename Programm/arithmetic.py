@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 print("Calculate...")
 answer = int(input("4 * 100 - 54 = "))
 

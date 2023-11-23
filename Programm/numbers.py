@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 first_number = int(input("Enter 1st number... "))
 second_number = int(input("Enter 2nd number... "))
 third_number = int(input("Enter 3rd number... "))
